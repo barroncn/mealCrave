@@ -2,9 +2,9 @@
 
 [Check it out here!](https://meal-crave.herokuapp.com)  
 
-* *Sample User Name: CaitlinB*
+* Sample User Name: *CaitlinB*
 
-* *Password: password    (I keep my mealCrave account SUPER secure)*
+* Password: *password*    (I keep my mealCrave account SUPER secure)
 
 This crowd-sourced app allows users to put all those food pictures to good use: to help YOU find what will satisfy your next meal craving. Anyone can use the app to search for what they are craving. When the user sees an appitizing picture of just what they want, he or she can click the picture to get more information (price, restaurant, etc) and then by clicking the restaurant name, the user can get driving directions and current approximate drive time from their location to the restaurant where their meal is waiting to be devoured!
 
